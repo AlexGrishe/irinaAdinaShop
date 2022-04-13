@@ -1,0 +1,48 @@
+[{
+    "name": "Каталог товара",
+    "hasChildren": true,
+    "children": [{
+      "name": "Платья",
+      "redirect": "Category 1"
+    }, {
+      "name": "Купальники",
+      "redirect": "Category 2"
+    }, {
+      "name": "Костюмы",
+      "redirect": "Category 3"
+    }, {
+      "name": "Комбинизоны",
+      "redirect": "Category 4"
+    }, {
+      "name": "Пляжная одежда",
+      "redirect": "Category 5"
+    }, {
+      "name": "Верхняя одежда",
+      "redirect": "Category 6"
+    }, {
+      "name": "Брюки/Юбки",
+      "redirect": "Category 7"
+    }, {
+      "name": "Бюстье",
+      "redirect": "Category 8"
+    }, {
+      "name": "Нижнее белье",
+      "redirect": "Category 9"
+    }, {
+      "name": "Новая коллекция",
+      "redirect": "Category 10"
+    }, {
+      "name": "Расспродажа",
+      "redirect": "Category 11"
+    }]
+  },
+  {
+    "name": "Понравилось",
+    "hasChildren": false,
+    "redirect": "favorite"
+  }, {
+    "name": "About Us",
+    "hasChildren": false,
+    "redirect": "empty"
+  }
+]
